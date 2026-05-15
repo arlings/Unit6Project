@@ -4,7 +4,7 @@
 package javaapplication4;
 
 public class MCQuiz extends javax.swing.JFrame {
-
+    // e
     private StudyGUI mainWindow;
     public MCQuiz(StudyGUI m) {
         initComponents();
