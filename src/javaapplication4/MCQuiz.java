@@ -41,7 +41,7 @@ public class MCQuiz extends javax.swing.JFrame {
             }
         });
 
-        questionLabel.setText("Question #");
+        questionLabel.setText("Question");
 
         questionTextArea.setColumns(20);
         questionTextArea.setRows(5);
