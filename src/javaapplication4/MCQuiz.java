@@ -28,7 +28,7 @@ public class MCQuiz extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("Test");
+        jLabel1.setText("2");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
